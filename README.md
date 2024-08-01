@@ -1,6 +1,5 @@
 # A Comprehensive Categorization Framework for Interactive Fiction Games
-## HONGYANG LIU
-## Professor KELVIN SUNG
+## HONGYANG LIU & Professor KELVIN SUNG
 
 Interactive Fiction (IF) games are digital experiences that merge storytelling with interactive gameplay, allowing players to navigate and influence story-driven adventures. These games have evolved significantly, integrating advanced visual and interactive elements alongside traditional textual narratives, making them an intriguing area of study.  However, currently, there are few structured frameworks designed for the systemic classification of IF games and it can be challenging to analyze these games wholistically.
 This thesis presents a comprehensive categorization framework for IF games, designed to facilitate systematic classification and analysis. Based on features derived from a human-computer interface, story genre, game mechanics, and business model, the framework supports the classification of IF games into distinct categories. This structured approach allows feature-based examination and facilitates the holistic analysis of IF games and their evolution.
